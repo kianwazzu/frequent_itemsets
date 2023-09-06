@@ -85,7 +85,7 @@ def test_sup_table():
     hey.add_or_update(3)
     hey.add_or_update(2)
     hey.add_or_update(1)
-    hey.add_or_update(69)
+    hey.add_or_update(6)
     hey.add_or_update(3)
     yo = 0
 
